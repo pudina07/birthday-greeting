@@ -1,0 +1,15 @@
+# Environments
+env1/
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
